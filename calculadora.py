@@ -29,6 +29,6 @@ while eleccion != 3:
         print("resultado:", number1,"-", number2,"=", number1-number2)
 
     if eleccion == 3:
-        print("Gracias")
+        print("Gracias Totales")
 
         
